@@ -27,9 +27,10 @@ Implementação do jogo Genius(Simon) utilizando placa compatível com Aruino Un
 
 #### Imagens
 
-![Foto Protótipo](img/prototipo1.png) 
-<img src="img/prototipo2.png" alt="Foto Protótipo" width="400" height="243"> 
-![Foto Protótipo](img/prototipo0.png)
+
+<img src="img/prototipo0.png" alt="Foto Protótipo" width="400" height="243"> <img src="img/prototipo1.png" alt="Foto Protótipo" width="400" height="243"> 
+</br>
+<img src="img/prototipo2.png" alt="Foto Protótipo" width="400" height="243"> <img src="img/prototipo3.png" alt="Foto Protótipo" width="400" height="243">
 
 ### SOFTWARE
 
